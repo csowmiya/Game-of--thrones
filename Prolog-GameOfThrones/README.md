@@ -1,12 +1,12 @@
 
 
-## 🎯 Aim
+## Aim
 
 To develop a **Prolog-based knowledge base** that models relationships, characteristics, and statuses of characters in the **Game of Thrones** universe for the purpose of logical reasoning and **query-based information retrieval**.
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 * Represent **family hierarchies** and **parent-child relationships** of major houses
 * Classify characters based on **gender** and **status** (alive or dead)
